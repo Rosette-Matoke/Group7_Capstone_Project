@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 import re
 
 # Initialize FastAPI 
-app = FastAPI(title="Doc-AI Backend")
+app = FastAPI(title="Doc-AI")
 
 app.add_middleware(
     CORSMiddleware,
@@ -18,7 +18,7 @@ app.add_middleware(
 
 # Load model, tokenizer, and label encoder 
 print("Loading model and preprocessors...")
-model = tf.keras.models.load_model("medical_nn_model.h5")
+model = tf.keras.models.load_model("medical_nn_model_v2.h5")
 tokenizer = joblib.load("tokenizer.pkl")
 label_encoder = joblib.load("label_encoder.pkl")
 print("Model, tokenizer, and label encoder loaded successfully!")
