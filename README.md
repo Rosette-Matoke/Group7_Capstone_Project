@@ -21,6 +21,8 @@ Several models including Logistic Regression, Random Forest, XGBoost, Naive Baye
 
 The deployed chatbot enables users to describe symptoms in free text, predicts likely disease categories, and suggests the appropriate medical specialist for consultation.Overall, this project demonstrates how the integration of AI, NLP, and deep learning can enhance healthcare accessibility, improve pre_diagnosis efficiency, and support informed medical decision-making.
 
+This link leads to the [Tableau Presentation](https://public.tableau.com/views/Capstone_Tableau_17623360435140/DiseaseandSymptomsDatasetDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # 👔  1. BUSINESS UNDERSTANDING
 According to [Rabin Matin](https://rabinmartin.com/insights/how-do-we-shape-a-more-inclusive-future-in-digital-health/?gad_source=1&gad_campaignid=20222258766&gbraid=0AAAAApYg6NJEwMSRw_2i3aRx_Yxow4-0V&gclid=EAIaIQobChMImJjdy6nakAMVeZJQBh1NAgf-EAAYAiAAEgJ3XPD_BwE) article written in November 2024. We can say that in the healthcare sector, patient–doctor communication plays a crucial role in ensuring timely diagnosis, effective treatment, and overall patient satisfaction. However, doctors often face high workloads and limited consultation time, while patients struggle to access reliable medical advice promptly. This imbalance between healthcare demand and availability creates a significant gap in early diagnosis and patient support.
 
