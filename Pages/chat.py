@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("💬 Chats Page")
+
